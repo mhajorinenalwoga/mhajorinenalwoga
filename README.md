@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @mhajorinenalwoga
-- 👀 I’m interested in database, networking and coding
+- 👀 I’m interested in javascript, html, css, react
+
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on everything possible
 - 📫 How to reach me ...
